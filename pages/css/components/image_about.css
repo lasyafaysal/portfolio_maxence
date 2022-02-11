@@ -3,6 +3,7 @@
   float: right;
 }
 .img_hover:hover {
+  cursor: none;
   float: center;
   border: 2px solid rgb(176, 255, 233);
   margin: auto;
