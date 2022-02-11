@@ -1,0 +1,27 @@
+.line {
+  position: absolute;
+  z-index: 3;
+  height: 160px;
+  margin-left: 30px;
+  margin-bottom: auto;
+}
+.infos {
+  width: 250px;
+}
+.paragraph {
+  position: relative;
+  margin-left: 2.5em;
+  margin-bottom: auto;
+  z-index: 1;
+  font-family: Jura;
+  width: 400px;
+  font-size: 18px;
+  color: rgb(239, 254, 251);
+  text-align-last: justify;
+}
+#top_left {
+  margin-top: 7.5em;
+}
+#bottom_left {
+  padding-top: 50px;
+}

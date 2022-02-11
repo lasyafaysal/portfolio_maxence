@@ -1,0 +1,19 @@
+body {
+  background: #0c0b0d;
+  position: relative;
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  width: 100%;
+}
+#front {
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin-bottom: 0;
+  width: auto;
+}
+#headings {
+  position: relative;
+}

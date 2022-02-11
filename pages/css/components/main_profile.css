@@ -1,0 +1,14 @@
+#main_profile {
+  z-index: 1;
+  position: relative;
+  margin-top: 15em;
+  margin-left: 15em;
+  height: 90px;
+}
+#hidden {
+  opacity: 0;
+  position: relative;
+  margin-top: 4em;
+  margin-left: 15em;
+  height: 90px;
+}

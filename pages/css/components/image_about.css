@@ -1,0 +1,11 @@
+#adjust {
+  transition: 0.5s ease-out;
+  float: right;
+}
+.img_hover:hover {
+  float: center;
+  border: 2px solid rgb(176, 255, 233);
+  margin: auto;
+  height: 450px;
+  transition: 1s ease-in;
+}

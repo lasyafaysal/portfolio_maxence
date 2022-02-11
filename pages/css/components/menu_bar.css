@@ -1,0 +1,37 @@
+.menu_bar {
+  z-index: 2;
+  position: absolute;
+  color: rgb(41, 255, 201);
+  height: 80px;
+  width: 100%;
+  justify-content: center;
+  text-align: center;
+  margin-left: 50%;
+  margin-right: 50%;
+  display: flex;
+}
+nav ul {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
+nav ul li {
+  display: inline-block;
+  line-height: 80px;
+  margin: 0 5px;
+}
+.menu_hover {
+  color: #b0ffe9;
+  font-size: 17px;
+  padding: 7px 13px;
+  border-radius: 3px;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-family: "Uni Sans", Heavy, fantasy;
+}
+.menu_hover.active,
+.menu_hover:hover {
+  background: #2bffca;
+  color: white;
+  transition: 0.5s;
+}

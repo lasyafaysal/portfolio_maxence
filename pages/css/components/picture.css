@@ -1,0 +1,12 @@
+.picture {
+  border: 1px solid rgb(30, 255, 206);
+  display: block;
+  position: absolute;
+  z-index: 0;
+  top: 7.5em;
+  right: 16em;
+  width: auto;
+}
+.picture:hover {
+  border: transparent;
+}
